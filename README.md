@@ -49,4 +49,4 @@ The best result was achieved with the following configuration:
 
 This configuration achieved a Precision@10 of 0.22 on the test set, producing the following MSE curve:
 
-![MSE Curve](path/to/mse_curve.png)
+![](images/recomendation.png)
