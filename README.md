@@ -45,7 +45,7 @@ The best result was achieved with the following configuration:
 - **Training Epochs:** 150
 - **Negative Samples:** 10
 - **Learning Rate:** 0.01
-- **Embedding Size:** 50
+- **Number of factors:** 50
 
 This configuration achieved a Precision@10 of 0.22 on the test set, producing the following MSE curve:
 
